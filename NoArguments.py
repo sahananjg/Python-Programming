@@ -1,7 +1,8 @@
-def nmae():
+def Noargu():
     s=str(input())
     if(s!=""):
         return "Hello"
     else:
         return None 
-print(nmae())
+print(Noargu())
+
